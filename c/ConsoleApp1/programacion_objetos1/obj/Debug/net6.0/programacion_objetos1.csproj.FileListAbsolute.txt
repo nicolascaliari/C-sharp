@@ -1,0 +1,5 @@
+C:\Users\nicol\Desktop\c\ConsoleApp1\programacion_objetos1\obj\Debug\net6.0\programacion_objetos1.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\c\ConsoleApp1\programacion_objetos1\obj\Debug\net6.0\programacion_objetos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\c\ConsoleApp1\programacion_objetos1\obj\Debug\net6.0\programacion_objetos1.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\c\ConsoleApp1\programacion_objetos1\obj\Debug\net6.0\programacion_objetos1.AssemblyInfo.cs
+C:\Users\nicol\Desktop\c\ConsoleApp1\programacion_objetos1\obj\Debug\net6.0\programacion_objetos1.csproj.CoreCompileInputs.cache
