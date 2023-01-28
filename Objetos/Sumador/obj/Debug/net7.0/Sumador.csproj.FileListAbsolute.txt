@@ -1,0 +1,15 @@
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\bin\Debug\net7.0\Sumador.exe
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\bin\Debug\net7.0\Sumador.deps.json
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\bin\Debug\net7.0\Sumador.runtimeconfig.json
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\bin\Debug\net7.0\Sumador.dll
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\bin\Debug\net7.0\Sumador.pdb
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\Sumador.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\Sumador.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\Sumador.AssemblyInfo.cs
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\Sumador.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\Sumador.dll
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\refint\Sumador.dll
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\Sumador.pdb
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\Sumador.genruntimeconfig.cache
+C:\Users\nicol\Desktop\c forms\Objetos\Sumador\obj\Debug\net7.0\ref\Sumador.dll
