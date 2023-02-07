@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\Desktop\\c forms\\form_utn\\form_utn\\form_utn.csproj": {}
+    "C:\\Users\\nicol\\Desktop\\form\\form_utn\\form_utn\\form_utn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\Desktop\\c forms\\form_utn\\form_utn\\form_utn.csproj": {
+    "C:\\Users\\nicol\\Desktop\\form\\form_utn\\form_utn\\form_utn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\c forms\\form_utn\\form_utn\\form_utn.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\form\\form_utn\\form_utn\\form_utn.csproj",
         "projectName": "form_utn",
-        "projectPath": "C:\\Users\\nicol\\Desktop\\c forms\\form_utn\\form_utn\\form_utn.csproj",
+        "projectPath": "C:\\Users\\nicol\\Desktop\\form\\form_utn\\form_utn\\form_utn.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\Desktop\\c forms\\form_utn\\form_utn\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\Desktop\\form\\form_utn\\form_utn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",

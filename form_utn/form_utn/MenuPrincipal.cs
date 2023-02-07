@@ -14,7 +14,7 @@ namespace form_utn
     {
 
         private string usuario;
-        public MenuPrincipal()
+        private MenuPrincipal()
         {
             InitializeComponent();
         }

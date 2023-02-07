@@ -14,9 +14,11 @@ namespace form_utn
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(this.txt_usuario.Text == "nicolas" && this.txt_password.Text == "nico")
+            string usuario = this.txt_usuario.Text;
+
+            if (usuario == "nicolas" && this.txt_password.Text == "nico")
             {
-                MenuPrincipal frm = new MenuPrincipal();
+                MenuPrincipal frm = new MenuPrincipal(usuario);
 
                 frm.Show(); // Lo uso para que cuando haga click en el boton me envie al otro fotrmulario.
 
